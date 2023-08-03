@@ -1,0 +1,41 @@
+body{
+background-color:aqua;
+}
+h1{
+    font-size:50px;
+color:hot pink;
+text-align:center;
+border:3px dashed;
+Padding:10px;
+}
+h2{
+font-size:50px;
+color:blue;
+text-align:left;
+border:3px dotted;
+padding:10px;
+}
+h3{font-size:50px;
+color:red;
+text-align:left;
+border:3px dashed;
+padding:10px;
+}
+h4{font-size:50px;
+color:yellow;
+text-align:left;
+border:3px dotted;
+padding:10px;
+}
+h5{font-size:50px;
+color:green;
+text-align:left;
+border:3px dashed;
+padding: 10px;
+}
+img{float: right;
+height: 100px;
+width: 100px;}
+
+
+
